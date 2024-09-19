@@ -38,3 +38,11 @@ footer {
   border-right-width: 3px;
   border-right-style: solid;
 }
+
+#bg-ex-fixed{
+  background: url(winxwp038.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; 
+}
