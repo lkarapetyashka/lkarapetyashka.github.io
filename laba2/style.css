@@ -16,7 +16,7 @@ div.href {
   max-width: 800px;
   background-color: #FFB6C1;
   margin: 0 auto;
-    margin-top: 0px;
+  margin-top: 0px;
   margin-top: 20px;
   padding: 10px;
   margin-bottom: 10px;
@@ -45,4 +45,11 @@ footer {
   background-size: cover;
   background-position: center;
   background-attachment: fixed; 
+}
+
+div.form {
+  margin: auto;
+  background-color:#228B22; 
+  margin-top: 20px;
+  max-weight: 250px;
 }
