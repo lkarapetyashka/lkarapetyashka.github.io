@@ -51,14 +51,14 @@ div.form {
   margin: auto;
   background-color:#9ACD32; 
   margin-top: 20px;
-  widht: 250px;
+  width: 650px;
   border-color: white;
-  border-top-style: white;
+  border-top-style: groowe;
   border-top-width: 3px;
   border-left-width: 3px;
-  border-left-style: white;
+  border-left-style: groowe;
   border-bottom-width: 3px;
-  border-bottom-style: white;
+  border-bottom-style: groowe;
   border-right-width: 3px;
-  border-right-style: white;
+  border-right-style: groowe;
 }
