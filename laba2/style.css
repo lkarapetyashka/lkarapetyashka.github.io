@@ -19,6 +19,7 @@ float: left;
 nav {
   background-color: #FF69B4;
   width: 600px;
+  margin-left: auto;
 }
 
 tr:nth-child(odd) {
