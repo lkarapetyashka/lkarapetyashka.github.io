@@ -10,3 +10,12 @@ tr:nth-child(odd) {
 tr:nth-child(even) {
   background-color: #FF69B4;
 }
+
+div.href {
+  max-width: 800px;
+  background-color: #CD5C5C;
+  margin: 0 auto;
+    margin-top: 0px;
+  margin-top: 20px;
+  padding: 10px;
+}
