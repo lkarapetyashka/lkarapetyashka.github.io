@@ -1,1 +1,5 @@
 <link rel="stylesheet" href="style.css">
+div.centre {
+  margin: auto;
+  background-color: pink;
+}
