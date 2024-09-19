@@ -15,6 +15,7 @@ header {
 width: 100px;
 height: 100px;
 float: left;
+margin-left: 10px;
 }
 
 nav {
