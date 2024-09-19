@@ -53,12 +53,12 @@ div.form {
   margin-top: 20px;
   width: 650px;
   border-color: white;
-  border-top-style: groowe;
+  border-top-style: groove;
   border-top-width: 3px;
   border-left-width: 3px;
-  border-left-style: groowe;
+  border-left-style: groove;
   border-bottom-width: 3px;
-  border-bottom-style: groowe;
+  border-bottom-style: groove;
   border-right-width: 3px;
-  border-right-style: groowe;
+  border-right-style: groove;
 }
