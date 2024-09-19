@@ -1,6 +1,7 @@
 #centre {
   margin: auto;
   background-color: pink;
+  padding: 7px;
 }
 
 tr:nth-child(odd) {
