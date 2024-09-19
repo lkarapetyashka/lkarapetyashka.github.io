@@ -52,6 +52,13 @@ div.form {
   background-color:#9ACD32; 
   margin-top: 20px;
   widht: 650px;
-  border: 20px;
   border-color: white;
+  border-top-style: white;
+  border-top-width: 3px;
+  border-left-width: 3px;
+  border-left-style: white;
+  border-bottom-width: 3px;
+  border-bottom-style: white;
+  border-right-width: 3px;
+  border-right-style: white;
 }
