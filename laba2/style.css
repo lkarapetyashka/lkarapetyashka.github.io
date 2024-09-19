@@ -2,3 +2,11 @@ div.centre {
   margin: auto;
   background-color: pink;
 }
+
+tr:nth-child(odd) {
+  background-color: antiquewhite;
+}
+
+tr:nth-child(even) {
+  background-color: #d0c671;
+}
