@@ -49,7 +49,8 @@ footer {
 
 div.form {
   margin: auto;
-  background-color:#228B22; 
+  background-color:#9ACD32; 
   margin-top: 20px;
   widht: 650px;
+  border: 20px;
 }
