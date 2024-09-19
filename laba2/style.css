@@ -10,6 +10,17 @@ header {
   margin-bottom: 10px;
 }
 
+#logo {
+width: 100px;
+height: 100px;
+float: left;
+}
+
+nav {
+  background-color: #d7ca9763;
+  width: 600px;
+}
+
 tr:nth-child(odd) {
   background-color: antiquewhite;
 }
