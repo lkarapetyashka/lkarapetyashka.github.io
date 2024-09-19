@@ -8,5 +8,5 @@ tr:nth-child(odd) {
 }
 
 tr:nth-child(even) {
-  background-color: #d0c671;
+  background-color: #FF69B4;
 }
