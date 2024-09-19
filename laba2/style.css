@@ -4,6 +4,12 @@
   padding: 7px;
 }
 
+header {
+  color: black;
+  background-color:#FFB6C1;
+  margin-bottom: 10px;
+}
+
 tr:nth-child(odd) {
   background-color: antiquewhite;
 }
